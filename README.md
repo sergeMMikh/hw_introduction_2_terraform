@@ -57,8 +57,14 @@
 
    <img src="images/Task_1_7.png" alt="Task_1_7.png" width="500" height="auto">
    
+7. Получаем список контейнеров *docker ps*
+   
+   <img src="images/Task_1_8.png" alt="Task_1_8.png" width="500" height="auto">
 
-8. 
+   Не составило труда изменить имя контейнера на *"hello_world"*
+
+   <img src="images/Task_1_9.png" alt="Task_1_9.png" width="500" height="auto">
+9. 
 
 
  
