@@ -35,7 +35,14 @@
 2. Результат запуска *terraform init*
    
    <img src="images/Task_1_3.png" alt="Task_1_3.png" width="500" height="auto">
-4. 
+   
+4. Результат запуска кода *terraform apply*
+
+   <img src="images/Task_1_4.png" alt="Task_1_4.png" width="500" height="auto">
+
+5. Ключ в файле *terraform.tfstate*
+
+   <img src="images/Task_1_5.png" alt="Task_1_5.png" width="500" height="auto">
 
 
  
