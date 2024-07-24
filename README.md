@@ -70,7 +70,11 @@
 
 8. Сзданные ресурсы были удалены командой *terraform destroy*. Содержимое файла *terraform.tfstate*:
 
-   <img src="images/Task_1_10.png" alt="Task_1_10.png" width="500" height="auto">
+   <img src="images/Task_1_10.png" alt="Task_1_10.png" width="550" height="auto">
+
+9. docker-образ **nginx:latest** не был удалён так как в конфигурации ресурса *resource "docker_image" "nginx"* была строчка *keep_locally = true*.
+
+    <img src="images/Task_1_11.png" alt="Task_1_11.png" width="300" height="auto">
 
 
  
