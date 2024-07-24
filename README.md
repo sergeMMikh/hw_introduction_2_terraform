@@ -44,5 +44,21 @@
 
    <img src="images/Task_1_5.png" alt="Task_1_5.png" width="500" height="auto">
 
+6. После добавления в скрипт закомменченных строчек возникли две ошибки:
+
+   <img src="images/Task_1_6_.png" alt="Task_1_6_.png" width="500" height="auto">
+
+   <img src="images/Task_1_6.png" alt="Task_1_6.png" width="500" height="auto">
+
+   В строке 24 ресурс описан не полностью, отсутсвует часть, относящаеся к имени ресурса.</br>
+   В строке 29 имя ресурса начинается на цифру, что не допустимо.</br>
+   Так же были ошибки в использовании ресурса *random_string* в строке 31.</br>
+   В итоге [файл](main.tf) проходит валидацию.
+
+   <img src="images/Task_1_7.png" alt="Task_1_7.png" width="500" height="auto">
+   
+
+8. 
+
 
  
