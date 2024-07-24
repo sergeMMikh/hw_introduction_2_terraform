@@ -13,7 +13,7 @@
 Решил попробовать выполнить задание в Windows 10 так как теоретически и Terraform и Docker- кроссплатформенные приложения.
 
 
- <img src="images/Task_0_1.png" alt="Task_0_1.png" width="500" height="auto">
+   <img src="images/Task_0_2.png" alt="Task_0_2.png" width="550" height="auto">
 
 
 -----
@@ -32,6 +32,10 @@
 
 **Решение**
 1. В файле *.gitignore* есть подсказка: *# own secret vars store*, там прописан файл для хранения переменных персональной авторизации- personal.auto.tfvars. Так же файлы *.tfstate и *.tfstate.* сохраняют состояние инфраструктуры и могут содержать конфиденциальные данные, такие как пароли и токены. Иногда следует добавлять файлы *.tfvars так как переменные так же могут содержать конфиденциальную информацию. Туда же можно добавлять файлы конфигурации CLI *.terraformrc*. Более полный список файлов можно найти в [официальной документации](https://github.com/github/gitignore/blob/main/Terraform.gitignore) Github.
+2. Результат запуска *terraform init*
+   
+   <img src="images/Task_1_3.png" alt="Task_1_3.png" width="500" height="auto">
+4. 
 
 
  
